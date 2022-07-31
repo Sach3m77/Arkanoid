@@ -1,5 +1,5 @@
 # **Arkanoid**
-## Gra na projekt z Podstawy programowania 2 (I Rok II semestr)
+## Gra na projekt z Podstawy programowania 2 (I Rok II semestr) [C]
 
 &nbsp;
 
