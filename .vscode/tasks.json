@@ -1,0 +1,39 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe kompiluj aktywny plik",
+			"command": "C:\\Program Files\\CodeBlocks\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "${file}",
+                "color.c",
+				"effects.c",
+                "menu_system.c",
+                "game_system.c",
+				"game_logic.c",
+				"playing.c",
+                "-o",
+                "${fileDirname}\\Arkanoid.exe",
+                "-I",
+                "C:\\Users\\Sachem\\Desktop\\Arkanoid-menu\\allegro\\include",
+                "-L",
+                "C:\\Users\\Sachem\\Desktop\\Arkanoid-menu\\allegro\\lib",
+                "-l",
+                "allegro_monolith-debug"
+            ],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "kompilator: \"C:\\Program Files\\CodeBlocks\\MinGW\\bin\\g++.exe\""
+		}
+	]
+}

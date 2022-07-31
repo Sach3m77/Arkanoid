@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "allegro.h": "c",
+    "altime.h": "c",
+    "menu_system.h": "c",
+    "bitmap.h": "c",
+    "stdio.h": "c"
+  },
+  "files.exclude": {}
+}
