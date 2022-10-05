@@ -1,5 +1,5 @@
 # **Arkanoid**
-## A 2D game based on the cult Arkanoid game
+## A 2D game based on the cult Arkanoid game.
 ### Language: C (Allegro 5 library)
 
 &nbsp;
