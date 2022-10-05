@@ -1,5 +1,6 @@
 # **Arkanoid**
-## Gra na projekt z Podstawy programowania 2 (I Rok II semestr) [C]
+## A 2D game based on the cult Arkanoid game
+### Language: C (Allegro 5 library)
 
 &nbsp;
 
